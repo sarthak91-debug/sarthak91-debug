@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="github.gif" height = 200 width = 400> <br>
-- 📗 A sophomore pursuing B-Tech in Computer Science Engineering from VIT Chennai.
+- 📗 A Graduate student pursuing his Masters in Science of Data Science
 - ✒️ I like to work with new datasets and develop end to end machine learning and deep learning projects
 - 🔭 I’m currently working on OpenCV and Image Classification <br>
 - 🌱 I’m currently learning Generative Adverserial Neural Networks<br>
